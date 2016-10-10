@@ -6,6 +6,6 @@ Building Angular2 UI for a Meteor app : recruitment website.
 
 1. Clone this repo via HTTP or SSH into your machine
 2. cd into `hiring-meteor`
-3. meteor npm install
-4. meteor --port 3000
-5. Visit localhost:3000
+3. run `meteor npm install`
+4. run `meteor --port 3000`
+5. Visit `localhost:3000`
